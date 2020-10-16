@@ -1,0 +1,27 @@
+{
+  "name": "generator-vue-ts-simple-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangdengcheng/vue-ts-simple-template.git"
+  },
+  "keywords": [
+    "vue",
+    "typescript",
+    "elementui"
+  ],
+  "author": "YangDengcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangdengcheng/vue-ts-simple-template/issues"
+  },
+  "homepage": "https://github.com/yangdengcheng/vue-ts-simple-template#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
